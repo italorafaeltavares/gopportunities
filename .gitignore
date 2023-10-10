@@ -21,3 +21,6 @@
 go.work
 go.sum
 Gopportunities.postman_collection.json
+
+db/
+init.txt
